@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
-    "nuxt": "3.8.0",
+    "nuxt": "^3.8.1",
     "sass": "^1.63.6",
     "typescript": "^5.2.2",
     "vuetify-nuxt-module": "^0.6.4"
